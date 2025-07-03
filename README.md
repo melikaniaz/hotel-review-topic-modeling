@@ -52,5 +52,4 @@ The goal is to extract **meaningful topics** from raw textual reviews, without a
 
 Topic 1: room | clean | bed | bathroom | comfortable | spacious | shower | towel | smell | dirty
 Topic 2: staff | helpful | friendly | service | reception | polite | desk | check | professional | kind
-...
 
